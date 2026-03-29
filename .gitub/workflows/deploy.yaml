@@ -1,4 +1,4 @@
-name: Deploy Hospitality Platform
+git name: Deploy Hospitality Platform
 
 on:
   push:
