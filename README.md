@@ -1,5 +1,7 @@
 # Boutique Shop Platform Prototype
 
+First Protoype FE: comming soon
+
 Ein moderner Webshop-Prototyp mit **React + TypeScript** im Frontend und **ASP.NET Core (C#)** im Backend.
 Das Projekt stellt einen hochwertigen Boutique-/Lifestyle-Shop dar und integriert zusätzlich Erlebnisbereiche wie Lounge, Gaming-Corner oder besondere In-Store-Areas.
 
