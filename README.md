@@ -1,6 +1,6 @@
 # Boutique Shop Platform Prototype
 
-First Protoype FE: https://readers-engaged-nottingham-someone.trycloudflare.com
+First Protoype FE: https://passion-opposite-strand-occupied.trycloudflare.com
 
 Ein moderner Webshop-Prototyp mit **React + TypeScript** im Frontend und **ASP.NET Core (C#)** im Backend.
 Das Projekt stellt einen hochwertigen Boutique-/Lifestyle-Shop dar und integriert zusätzlich Erlebnisbereiche wie Lounge, Gaming-Corner oder besondere In-Store-Areas.
