@@ -1,6 +1,7 @@
 # Boutique Shop Platform Prototype
 
 Protoype FE: https://app.kevs-ops.dev
+
 Prototype BE: https://api.kevs-ops.dev/swagger
 
 Ein moderner Webshop-Prototyp mit **React + TypeScript** im Frontend und **ASP.NET Core (C#)** im Backend.
