@@ -1,6 +1,7 @@
 # Boutique Shop Platform Prototype
 
-First Protoype FE: https://app.kevs-ops.dev
+Protoype FE: https://app.kevs-ops.dev
+Prototype BE: https://api.kevs-ops.dev/swagger
 
 Ein moderner Webshop-Prototyp mit **React + TypeScript** im Frontend und **ASP.NET Core (C#)** im Backend.
 Das Projekt stellt einen hochwertigen Boutique-/Lifestyle-Shop dar und integriert zusätzlich Erlebnisbereiche wie Lounge, Gaming-Corner oder besondere In-Store-Areas.
