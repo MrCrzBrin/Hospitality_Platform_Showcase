@@ -9,7 +9,7 @@ Das Projekt stellt einen hochwertigen Boutique-/Lifestyle-Shop dar und integrier
 
 ---
 
-## 🚀 Ziel
+##  Ziel
 
 Dieses Projekt ist ein **produktnaher Fullstack-Prototyp** für eine moderne Shop- und Experience-Plattform.
 
@@ -25,7 +25,7 @@ Der Fokus liegt auf:
 
 ---
 
-## 🧠 Architektur-Vision
+##  Architektur-Vision
 
 ```text
 Internet / Tunnel
@@ -41,9 +41,9 @@ Internet / Tunnel
 
 ---
 
-## 🖥️ Infrastruktur Setup (Stand: aktueller Fortschritt)
+##  Infrastruktur Setup (Stand: aktueller Fortschritt)
 
-### ✅ Ubuntu Server (Self-Hosted)
+###  Ubuntu Server (Self-Hosted)
 
 * Installation von **Ubuntu Server 24.04 LTS** auf einem dedizierten Host
 * System läuft stabil als **24/7 Homeserver**
@@ -57,7 +57,7 @@ ssh user@server-ip
 
 ---
 
-### 🔐 Remote Zugriff & Netzwerk (Tailscale)
+###  Remote Zugriff & Netzwerk (Tailscale)
 
 Für sicheren Zugriff wurde ein privates Overlay-Netzwerk mit
 Tailscale eingerichtet.
@@ -77,7 +77,7 @@ Vorteile:
 
 ---
 
-### 🔧 System Status
+###  System Status
 
 * SSH Zugriff erfolgreich eingerichtet
 * Server online und erreichbar
@@ -86,7 +86,7 @@ Vorteile:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -118,11 +118,11 @@ Vorteile:
 
 ---
 
-## ⚙️ Roadmap
+##  Roadmap
 
 ### Phase 1: Docker First
 
-* Ubuntu Server vorbereiten ✔
+* Ubuntu Server vorbereiten 
 * Docker Engine + Compose installieren
 * Frontend mit Dockerfile bauen
 * Container lokal deployen
@@ -152,7 +152,7 @@ Vorteile:
 
 ---
 
-## 🔮 Nächste Schritte
+##  Nächste Schritte
 
 * Docker Setup abschließen
 * Frontend containerisieren
@@ -162,7 +162,7 @@ Vorteile:
 
 ---
 
-## 💡 Ziel dieses Projekts
+##  Ziel dieses Projekts
 
 Dieses Projekt dient als:
 
@@ -176,7 +176,7 @@ Dieses Projekt dient als:
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
 
 Kevin Hübner
 Informatik (B.Sc.) – Schwerpunkt Cloud / DevOps / Fullstack
